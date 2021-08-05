@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 금채원방
+
+오늘 처음 챗봇 만들어 봄
 
 You can use the [editor on GitHub](https://github.com/yamsi70/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
